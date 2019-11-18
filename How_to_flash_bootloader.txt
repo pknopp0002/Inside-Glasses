@@ -1,0 +1,7 @@
+The Cortex-M0 micro-chip, that is used on the printed circuit board, comes blank from the manufacturer
+and will need a bootloader binary file flashed to the chip to make it work. This is the same micro-chip
+that the Adafruit Trinket M0 uses and the company provides detailed steps on the equipment needed
+and the steps used to upload the bootloader onto the chip. The link below will help with this
+process. 
+
+Link: https://learn.adafruit.com/how-to-program-samd-bootloaders/overview
