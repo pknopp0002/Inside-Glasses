@@ -2,7 +2,9 @@
 PCB, STL, and Arduino files associated with Inside Glasses
 
 
-Video of device: https://www.youtube.com/watch?v=xPD7HodZjsc&
+Videos of device: https://www.youtube.com/watch?v=xPD7HodZjsc&
+                  https://youtu.be/cH0OHGc0elc
+                  https://youtu.be/eIdolbzYCCU
 
 # Hardware
 
