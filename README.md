@@ -2,11 +2,11 @@
 PCB, STL, and Arduino files associated with Inside Glasses
 
 
-Videos of device: https://www.youtube.com/watch?v=xPD7HodZjsc&
+Video of device: https://www.youtube.com/watch?v=xPD7HodZjsc&
 
-Videos of device: https://youtu.be/cH0OHGc0elc
+Video showing feedback system: https://youtu.be/cH0OHGc0elc
 
-Videos of device: https://youtu.be/eIdolbzYCCU
+Video showing serial plotting: https://youtu.be/eIdolbzYCCU
 
 # Hardware
 
